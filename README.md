@@ -5,11 +5,10 @@
 <br>
 
 ### This specific analysis aims to address the following questions: 
+<a>
 <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="850"/>
+</a>
 <br>
-<p>
-  <h1 align="left"><b>Hi there👋 I'm Davaa,</b></h1>
-</p>
 
 ### The purpose of the analysis:
 - 🔑 Deep Audience Insights: Acquire comprehensive insights to understand the nuances of the target audience.
