@@ -6,3 +6,10 @@
 
 ### This specific analysis aims to address the following questions: 
 <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="850"/>
+
+
+### The purpose of the analysis:
+-🔑 Gain deep insights to know about the **target audience**
+- Unlock the power of segmentation to tailor marketing efforts and **deliver personalized experiences** that captivate the target audience.
+- Make Informed Decisions: Turn customer behavior insights into actionable strategies and data-driven decision-making to refine your marketing strategies, optimize product offerings, and drive growth.📈
+
