@@ -21,7 +21,7 @@
 - A data set taken fropm **Kaggle** 
 
 
-### Tableau Dashboard Images
+### Customer Analysis Insights 
 <a target="">
   <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/2.png" width="1000"/>
 </a>
