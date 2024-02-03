@@ -14,3 +14,13 @@
 - 🔑 Deep Audience Insights: Acquire comprehensive insights to understand the nuances of the target audience.
 - 🚀 Segmentation Mastery: Unleash the potential of segmentation to finely craft marketing endeavors. This involves creating and delivering personalized experiences that resonate with the target audience.
 - 📊 Informed Decision-Making: Translate customer behavior insights into tangible strategies. Embrace data-driven decision-making to refine marketing strategies, optimize product offerings, and fuel continuous growth.📈
+
+<br>
+
+### Tableau Dashboard Imagges
+<details>
+  <summary>The title of the image group</summary>
+  <img src="https://github.com/DJJamsran/images/blob/main/2.png" alt="image-description"/>
+  <img src="https://github.com/DJJamsran/images/blob/main/3.png" alt="image-description"/>
+  <img src="https://github.com/DJJamsran/images/blob/main/4.png" alt="image-description"/>
+</details>
