@@ -28,7 +28,7 @@
 
 
 <details>
-  <summary><b>Click here to check out more Insights</b></summary>
+  <summary><b>Click ▶️ down to check out more Insights</b></summary>
   <img src="https://github.com/DJJamsran/images/blob/main/3.png" alt="image-description"/>
   <img src="https://github.com/DJJamsran/images/blob/main/4.png" alt="image-description"/>
 </details>
