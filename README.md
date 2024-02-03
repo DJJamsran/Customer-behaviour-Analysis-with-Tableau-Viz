@@ -4,12 +4,13 @@
 </p>
 <br>
 
+
 ### This specific analysis aims to address the following questions: 
-<a>
-<img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="850"/>
+<a target="">
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="800"/>
 </a>
-### The purpose of the analysis:
+
+### The purpose of the analysis
 - 🔑 Deep Audience Insights: Acquire comprehensive insights to understand the nuances of the target audience.
 - 🚀 Segmentation Mastery: Unleash the potential of segmentation to finely craft marketing endeavors. This involves creating and delivering personalized experiences that resonate with the target audience.
 - 📊 Informed Decision-Making: Translate customer behavior insights into tangible strategies. Embrace data-driven decision-making to refine marketing strategies, optimize product offerings, and fuel continuous growth.📈
-
