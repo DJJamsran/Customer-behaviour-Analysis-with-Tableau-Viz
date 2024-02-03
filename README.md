@@ -17,10 +17,16 @@
 
 <br>
 
-### Tableau Dashboard Imagges
+
+
+### Tableau Dashboard Images
+<a target="">
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/2.png" width="1000"/>
+</a>
+
+
 <details>
-  <summary>The title of the image group</summary>
-  <img src="https://github.com/DJJamsran/images/blob/main/2.png" alt="image-description"/>
+  <summary>Click here to see more images</summary>
   <img src="https://github.com/DJJamsran/images/blob/main/3.png" alt="image-description"/>
   <img src="https://github.com/DJJamsran/images/blob/main/4.png" alt="image-description"/>
 </details>
