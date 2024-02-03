@@ -8,6 +8,7 @@
 <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="850"/>
 
 <br>
+<br>
 
 ### The purpose of the analysis:
 - 🔑 Deep Audience Insights: Acquire comprehensive insights to understand the nuances of the target audience.
