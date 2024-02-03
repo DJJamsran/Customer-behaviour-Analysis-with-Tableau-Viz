@@ -8,8 +8,6 @@
 <a>
 <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="850"/>
 </a>
-<br>
-
 ### The purpose of the analysis:
 - 🔑 Deep Audience Insights: Acquire comprehensive insights to understand the nuances of the target audience.
 - 🚀 Segmentation Mastery: Unleash the potential of segmentation to finely craft marketing endeavors. This involves creating and delivering personalized experiences that resonate with the target audience.
