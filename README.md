@@ -5,7 +5,7 @@
 
 ### This specific analysis aims to address the following questions: 
 <a target="">
-  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="800"/>
+  <img align="left" alt="" src="https://github.com/DJJamsran/images/blob/main/11.png" width="1000"/>
 </a>
 
 <br>
