@@ -5,3 +5,4 @@
 <br>
 
 ### This specific analysis aims to address the following questions: 
+<img align="right" alt="" src="https://github.com/DJJamsran/images/blob/main/all_page-0001.jpg" width="400"/>
